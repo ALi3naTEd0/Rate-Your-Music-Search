@@ -1,4 +1,4 @@
-# RateYourMusicSearch (userscript)
+# Rate Your Music Search (userscript)
 
 ### Description:
 
